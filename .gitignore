@@ -39,3 +39,5 @@ CLAUDE.md
 /.env
 /compile_commands.json
 /.cache/
+/ide/**/bin/
+/ide/**/obj/
