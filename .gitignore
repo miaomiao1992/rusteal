@@ -23,7 +23,7 @@ ue_plugin/Rusteal/Source/Rusteal/Generated/
 *.sln
 !/rusteal.sln
 
-# Claude Code (local, not committed)
+# Local editor and tool settings (not committed)
 CLAUDE.md
 .claude/
 
